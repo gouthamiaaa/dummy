@@ -7,6 +7,7 @@ public class FirstTest {
 	@Test
 	public void test1()
 	{
+		//dummy 
 		Reporter.log("test 1");
 	}
 
